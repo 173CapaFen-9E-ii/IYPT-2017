@@ -1,21 +1,17 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
-
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+9-E  | İdil Başarır  | 633
+9-E  | İnci Aslan | 643
 
-#  (buraya proje başlığını yazınız)
+#  Invent Yourself (2013)
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Akordiyon şeklinde - “zigzag” şeklinde - katlanmış bir kağıdı mı, yoksa bir tüp - silindir - haline getirilmiş bir kağıdı bükmek mi daha kolaydır? A4 kağıdı ve bir miktar yapıştırcı kullanarak yaklaşık 280mm uzunluğunda bir köprü inşa edeceğiz. Amacımız köprümüzü yapabileceğimiz en güçlü şekilde inşa etmek ve bunu yaparken de bazı parametreler kullanmak. Bunu - en fazla yükü nasıl taşıyabileceğini - öğrenebilmek için A4 boyutundaki kağıdı veya kağıtları, akordiyon veya silindir formunda; kağıt sayısı, kağıdın gramajı (ağırlığı), akordiyon şeklinde ise oluşan “zigzag”ların yüksekliği, katlanma sayısı, silindir şeklinde ise silindirin kalınlığı gibi parametreler üzerinden değerlendireceğiz. Bu değerlendirmeleri yaparken oluşturduğumuz köprülerin üzerine ağırlıkları farklı yükler koyarak onların yük taşıma kapasitelerini test etmiş olacağız. Ve bu yükleri de köprünün tam merkezine ya da uç kısımlarına koymayı deneyerek bunu yapmanın köprünün yük taşıma kapasitesine etkisi olup olmadığını göreceğiz.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 1. Janice, V. 2010. “How To Make Paper Bridges” Son erişim tarihi: 17 Ekim 2010 http://scienceprojectideasforkids.com/2010/make-paper-bridges/
+ 2. Gordon, J.E. 1978. “Structures, or Why Things Don't Fall Down”, Penguin Books.
+ 3. Jennifer A. 2017. “Build a Simple Paper Bridge as a Science Experiment” Son erişim tarihi: 5 Şubat 2017 https://science.wonderhowto.com/how-to/build-simple-paper-bridge-as-science-experiment-424754/
+ 4. Janice, V. 2009. “A Paper Bridge” Son erişim tarihi: 6 Nisan 2009 http://scienceprojectideasforkids.com/2009/a-paper-bridge/
 
